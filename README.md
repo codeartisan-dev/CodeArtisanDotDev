@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alper</h1>
-<h3 align="center">Fullstack Javascript developper , based in Paris - France</h3>
+<h3 align="center">Fullstack Javascript developer, based in Paris - France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeartisandotdev&label=Profile%20views&color=0e75b6&style=flat" alt="codeartisandotdev" /> </p>
 
