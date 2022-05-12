@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/codeartisan_dev" target="blank"><img src="https://img.shields.io/twitter/follow/codeartisan_dev?logo=twitter&style=for-the-badge" alt="codeartisan_dev" /></a> </p>
 
-- 🌱 I’m currently learning **NestJs - Remix.run**
-
 - 👨‍💻 All of my projects are available at [https://codeartisan.dev](https://codeartisan.dev)
-
-- 📝 I regularly write articles on [https://medium.com/@codeartisan.dev](https://medium.com/@codeartisan.dev)
 
 - 💬 Ask me about **react, nextJs, vueJs, prisma, supabase**
 
